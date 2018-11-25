@@ -1,6 +1,6 @@
 # Introduction
 
-wiki-lua is a wrapper for running Mediawiki Lua models locally.
+wiki-lua is a wrapper for running Mediawiki Lua modules locally.
 
 # Requirements
 
